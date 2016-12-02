@@ -1,0 +1,6 @@
+C:\pj\Test\CheckXmlSerialization\CheckXmlSerialization\bin\Debug\CheckXmlSerialization.exe.config
+C:\pj\Test\CheckXmlSerialization\CheckXmlSerialization\bin\Debug\CheckXmlSerialization.exe
+C:\pj\Test\CheckXmlSerialization\CheckXmlSerialization\bin\Debug\CheckXmlSerialization.pdb
+C:\pj\Test\CheckXmlSerialization\CheckXmlSerialization\obj\Debug\CheckXmlSerialization.csprojResolveAssemblyReference.cache
+C:\pj\Test\CheckXmlSerialization\CheckXmlSerialization\obj\Debug\CheckXmlSerialization.exe
+C:\pj\Test\CheckXmlSerialization\CheckXmlSerialization\obj\Debug\CheckXmlSerialization.pdb
